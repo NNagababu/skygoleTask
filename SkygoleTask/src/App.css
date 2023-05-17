@@ -1,0 +1,43 @@
+
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  margin: 2px;
+  height:auto;
+  padding: 5px;
+  background-color: aqua;
+}
+
+.mar{
+  margin: 5px;
+  padding: 3px;
+}
+
+.csignup{
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  border-radius: 2px;
+}
+
+.csignin{
+  background-color: lightgreen;
+  color: black;
+  border-radius: 2px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.err{
+  color: red;
+  font-size: medium;
+  text-align: center;
+}
